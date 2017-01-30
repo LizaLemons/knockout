@@ -1,5 +1,6 @@
 body {
   background-color: white;
+  cursor: url('img/32-unicorn.png'), auto;
 }
 
 .mock-div {
