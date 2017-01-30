@@ -1,0 +1,32 @@
+body {
+  background: white;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.knockout {
+  /*background: url(http://apod.nasa.gov/apod/image/0603/coma_misti.jpg);*/
+
+  background: url("http://i.giphy.com/iWJ1OFyyNd6PC.gif");
+
+  /*background: url("http://i.giphy.com/FWIYYDtFZKebu.gif");*/
+  /*background: url("http://i.giphy.com/ulpqveCy2uY2A.gif");*/
+  /*background: url("http://i.giphy.com/eHnl1dXo5CXjq.gif");*/
+  /*background: url("http://i.giphy.com/5h0rvsJOGHZ7i.gif");*/
+  /*background: url("http://i.giphy.com/AHvWsYNYKoekg.gif");*/
+
+
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  font-weight: bold;
+  font-size: 250px;
+  font-family: arial, helvetica;
+  /*width: 600px;*/
+  /*margin: 50px auto;*/
+  /*text-align: center;*/
+}
