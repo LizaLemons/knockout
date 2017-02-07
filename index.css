@@ -1,6 +1,7 @@
 body {
   background-color: white;
-  cursor: url('img/32-unicorn.png'), auto;
+  /*cursor: url('img/32-unicorn.png'), auto;*/
+  cursor: url('img/unicorn-favicon.webp'), auto;
 }
 
 .mock-div {
